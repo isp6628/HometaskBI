@@ -4,7 +4,7 @@ author: student-bi Izotova S.
 topic: валютный курс
 opens: 2026-10-30
 resolve_by: 2026-11-16
-horizon: Н2
+horizon: Н1 до 6 недель
 date_set_by: Банк России (ежедневные данные)
 forecast_pct: 30
 ai_baseline_pct: 35
