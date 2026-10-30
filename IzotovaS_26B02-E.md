@@ -1,7 +1,7 @@
 ---
 question_id: economics_homework
 author: student-bi Izotova S.
-topic: валютный курс
+topic: валютный курс - econ-forecast
 opens: 2026-10-30
 resolve_by: 2026-11-16
 horizon: Н1 до 6 недель
